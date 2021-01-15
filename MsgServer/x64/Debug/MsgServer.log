@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Msg.cpp
+  MsgServer.cpp
+D:\учеба\MsgServer3\MsgServer\Session.h(52,1): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  Создание кода...
+  MsgServer.vcxproj -> D:\учеба\MsgServer3\x64\Debug\MsgServer.exe
